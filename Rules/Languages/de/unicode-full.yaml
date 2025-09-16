@@ -2320,7 +2320,7 @@
  - "⭒": [T: "Weißer kleiner Stern"]             	#  0x2b52	(en: 'white small star', MathPlayer: 'white small star', google: 'weißer kleiner stern')
  - "⭓": [T: "Schwarzes nach rechts zeigendes Pentagon"]	#  0x2b53	(en: 'black right pointing pentagon', google: 'schwarzer rechter pentagon')
  - "⭔": [T: "Weißes nach rechts zeigendes Pentagon"]	#  0x2b54	(en: 'white right pointing pentagon', google: 'weißer rechts pentagon')
- - "⭕": [T: "Schwerer großer Kreis"]            	#  0x2b55	(en: 'heavy large circle', google: 'schwerer großer kreis')
+ - "⭕": [T: "großer großer Kreis"]            	#  0x2b55	(en: 'heavy large circle', google: 'schwerer großer kreis')
  - "⭖": [T: "Schweres Oval mit innenliegendem Oval"]	#  0x2b56	(en: 'heavy oval with oval inside', google: 'schweres oval mit oval im inneren')
  - "⭗": [T: "Schwerer Kreis mit Kreis nach innen"]	#  0x2b57	(en: 'heavy circle with circle inside', google: 'schwerer kreis mit kreis im inneren')
  - "⭘": [T: "Schwerer Kreis"]                   	#  0x2b58	(en: 'heavy circle', google: 'schwerer kreis')
